@@ -1,0 +1,14 @@
+{
+  "title": "Hack Shack (LIVE): SPIFFE and SPIRE Fundamentals",
+  "description": "",
+  "courses": [
+    {
+
+      "pathway_id": "hpe-spire",
+      "id": "spire_basics",
+      "course_id": "spire_basics",
+      "title": "SPIFFE/SPIRE: Fundamentals",
+      "description": "SPIFFE/SPIRE: Fundamentals"
+    }
+  ]
+}
