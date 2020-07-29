@@ -1,14 +1,13 @@
 {
-  "title": "Hack Shack (LIVE): SPIFFE and SPIRE Fundamentals",
+  "title": "Hack Shack Workshop  (LIVE): Enabling PKI-based Database Authentication with SPIRE",
   "description": "",
   "courses": [
     {
-
       "pathway_id": "hpe-spire",
-      "id": "spire_basics",
-      "course_id": "spire_basics",
-      "title": "SPIFFE/SPIRE: Fundamentals",
-      "description": "SPIFFE/SPIRE: Fundamentals"
+      "id": "postgres",
+      "course_id": "postgres",
+      "title": "SPIFFE/SPIRE: X.509-SVID Authentication to Postgres",
+      "description": "SPIFFE/SPIRE: Demonstrate X.509-SVID Authentication to Postgres"
     }
   ]
 }
