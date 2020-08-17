@@ -1,7 +1,14 @@
 {
-  "title": "SPIFFE and SPIRE KubeCon Workshops",
+  "title": "SPIFFE and SPIRE KubeCon Workshops: Learn the basics of CNCF’s SPIFFE project and get a chance to win an Anker PowerConf Bluetooth Speakerphone. Each workshop completion will be considered an entry for a daily draw.",
   "description": "Learn the basics of CNCF’s SPIFFE project and get a chance to win an Anker PowerConf Bluetooth Speakerphone. Each workshop completion will be considered an entry for a daily draw.",
   "courses": [
+    {
+      "pathway_id": "hpe-spire",
+      "id": "spire_basics",
+      "course_id": "spire_basics",
+      "title": "SPIFFE/SPIRE: Fundamentals",
+      "description": "SPIFFE/SPIRE: Fundamentals"
+    },
     {
       "pathway_id": "hpe-spire",
       "id": "app-envoy",
@@ -15,13 +22,6 @@
       "course_id": "postgres",
       "title": "SPIFFE/SPIRE: X.509-SVID Authentication to Postgres",
       "description": "SPIFFE/SPIRE: Demonstrate X.509-SVID Authentication to Postgres"
-    },
-    {
-      "pathway_id": "hpe-spire",
-      "id": "spire_basics",
-      "course_id": "spire_basics",
-      "title": "SPIFFE/SPIRE: Fundamentals",
-      "description": "SPIFFE/SPIRE: Fundamentals"
     }
   ]
 }
