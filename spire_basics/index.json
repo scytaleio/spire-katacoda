@@ -2,7 +2,7 @@
   "title": "SPIFFE/SPIRE: Fundamentals",
   "description": "SPIFFE/SPIRE: Fundamentals",
   "difficulty": "Beginner",
-  "time": "30 minutes",
+  "time": "15 minutes",
   "details": {
     "assets": {
       "host01": [

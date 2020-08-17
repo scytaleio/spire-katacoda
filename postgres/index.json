@@ -2,7 +2,7 @@
   "title": "SPIFFE/SPIRE: X.509-SVID Authentication to Postgres",
   "description": "SPIFFE/SPIRE: Demonstrate X.509-SVID Authentication to Postgres",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "30 minutes",
   "details": {
     "assets":
       { "host01":
